@@ -31,6 +31,11 @@ _Em breve: os links das atividades práticas do curso serão adicionados ao long
 - **Orion**: PWA de gamificação de rotina.
 - **Game Jam IFPA-PGM 2026**: projeto desenvolvido na game jam do IFPA Paragominas.
 
+## Sites para clientes
+
+- [Site institucional de uma empresa](https://www.dinetec.com.br/): landing page desenvolvida como freelancer, com Astro e Tailwind.
+- [Site institucional de um escritório de contabilidade](https://www.vipcontabilidadepgm.com.br/): landing page desenvolvida como freelancer.
+
 ## Contato
 
 - E-mail: kauevinicius901@gmail.com
