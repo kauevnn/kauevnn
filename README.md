@@ -28,7 +28,7 @@ _Em breve: os links das atividades práticas do curso serão adicionados ao long
 
 - **BJJ Flow**: aplicativo de condicionamento físico para jiu-jitsu.
 - **Orion**: PWA de gamificação de rotina.
-- **Game Jam IFPA-PGM 2026**: projeto desenvolvido na game jam do IFPA Paragominas.
+- **Spear Rush**: jogo desenvolvido para a Game Jam IFPA-PGM 2026.
 
 ## Sites para clientes
 
