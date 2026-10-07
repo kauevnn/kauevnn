@@ -33,8 +33,8 @@ _Em breve: os links das atividades práticas do curso serão adicionados ao long
 
 ## Sites para clientes
 
-- [Site institucional de uma empresa](https://www.dinetec.com.br/): landing page desenvolvida como freelancer, com Astro e Tailwind.
-- [Site institucional de um escritório de contabilidade](https://www.vipcontabilidadepgm.com.br/): landing page desenvolvida como freelancer.
+- [Dinetec Brasil](https://www.dinetec.com.br/): site institucional desenvolvido como freelancer, com Astro e Tailwind.
+- [VIP Contabilidade](https://www.vipcontabilidadepgm.com.br/): site institucional desenvolvido como freelancer.
 
 ## Contato
 
